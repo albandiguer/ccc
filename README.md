@@ -1,4 +1,5 @@
 #Credit Card Checker
+[![Code Climate](https://codeclimate.com/github/albandiguer/ccc.png)](https://codeclimate.com/github/albandiguer/ccc)
 
 ## Tests
 
